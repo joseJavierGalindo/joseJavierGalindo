@@ -1,14 +1,14 @@
-BOT_TOKEN = '5073603496:AAFGCe2IZxzlQgDTpDsPd4fcC3ovTbv0aBU' #token de tu bot
-API_ID = 15374509 # lo creas en https://my.telegram.org/
-API_HASH = '00e43dbb6632a11be01895d2c5db6af0'  # lo creas en https://my.telegram.org/
-OWNER = [1067871346]
+BOT_TOKEN = '5263170929:AAE8UrTzHs1B3neWQVpwbYSJPr6w35W6xNM' #token de tu bot
+API_ID = 16622951 # lo creas en https://my.telegram.org/
+API_HASH = '21b795f8112a5546e9e32e7358e9d401'  # lo creas en https://my.telegram.org/
+OWNER = [1007430305]
 
 # DATOS DEL MOODLE
-USUARIO = '@yosvani'
-MOODLE_PASSWORD = '@Yosvani8303'
+USUARIO = 'darian.borges@estudiantes.fbio.uh.cu'
+MOODLE_PASSWORD = 'darian1995'
 USUARIO_ID = 1067871346 #Tu id
 ZIP_MB = 50
-MOODLE_URL = 'cursos.uo.edu.cu'
+MOODLE_URL = 'evea.uh.cu'
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
 GMAIL_MEGA = 'AQUI TU GMAIL' 
